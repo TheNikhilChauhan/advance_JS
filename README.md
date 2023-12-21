@@ -6,10 +6,18 @@
   <li>Grasping Booleans</li>
   <li> Comparison Operators</li>
   <li>Manipulating Strings</li>
-  <li>
-    <ul>Control Flow: 
+  <li>Control Flow:
+    <ul> 
       <li>Conditional Statement</li>
       <li>Switch Statement</li>
     </ul>
   </li>
+  <li>Loops:
+    <ul>
+      <li>For loop</li>
+      <li>While loop</li>
+      <li>Do while loop</li>
+    </ul>
+  </li>
+  <li>Logical operations</li>
 </ul>
