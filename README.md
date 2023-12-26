@@ -22,7 +22,20 @@
   <li>Logical operations</li>
   <li>Arrays
     <ul>
-      <li></li>
+      <li>Array Intro</li>
+      <li>Array Methods</li>
     </ul>
   </li>
+  <li>Objects
+    <ul>
+      <li>Objects Intro</li>
+    </ul>
+  </li>
+  <li>Functions
+    <ul>
+      <li>Functions Intro</li>
+      <li>callback functions</li>
+    </ul>
+  </li>
+  <li>Scopes</li>
 </ul>
