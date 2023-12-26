@@ -20,4 +20,9 @@
     </ul>
   </li>
   <li>Logical operations</li>
+  <li>Arrays
+    <ul>
+      <li></li>
+    </ul>
+  </li>
 </ul>
