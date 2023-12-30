@@ -46,3 +46,17 @@
     </ul>
   </li>
 </ul>
+<h3>Advance</h3>
+<ul>
+  <li>Template Literals/Strings</li>
+  <li>Arrow Functions</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
