@@ -37,5 +37,12 @@
       <li>callback functions</li>
     </ul>
   </li>
-  <li>Scopes</li>
+  <li>Methods</li>
+  <li>JSON Handling</li>
+  <li>Date and Time
+    <ul>
+      <li>dateTime</li>
+      <li>setInterval and setTimeout</li>
+    </ul>
+  </li>
 </ul>

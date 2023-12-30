@@ -1,0 +1,11 @@
+{
+  "name": "Will Graham",
+  "age": 27,
+  "email": "will@gmail.com",
+  "isSubscribed": true,
+  "hobbies": ["Reading", "Running", "Cooking"],
+  "address": {
+    "city": "New York",
+    "idk": true
+  }
+}
