@@ -50,9 +50,9 @@
 <ul>
   <li>Template Literals/Strings</li>
   <li>Arrow Functions</li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Enhanced Object Literals</li>
+  <li>Default Parameters </li>
+  <li> Spread Operator</li>
   <li></li>
   <li></li>
   <li></li>
