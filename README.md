@@ -58,6 +58,8 @@
     <ul>
       <li>Array Destructuring</li>
       <li>Object Destructuring</li>
+      <li>Function Destructuring</li>
+      <li>Nested Destructuring</li>
     </ul>
   </li>
   <li></li>
