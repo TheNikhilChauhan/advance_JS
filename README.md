@@ -52,9 +52,14 @@
   <li>Arrow Functions</li>
   <li>Enhanced Object Literals</li>
   <li>Default Parameters </li>
-  <li> Spread Operator</li>
-  <li></li>
-  <li></li>
+  <li>Spread Operator</li>
+  <li>Rest Operator</li>
+  <li>Destructuring
+    <ul>
+      <li>Array Destructuring</li>
+      <li>Object Destructuring</li>
+    </ul>
+  </li>
   <li></li>
   <li></li>
   <li></li>
