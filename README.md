@@ -46,7 +46,7 @@
     </ul>
   </li>
 </ul>
-<h3>Advance</h3>
+<h3>Intermediate</h3>
 <ul>
   <li>Template Literals/Strings</li>
   <li>Arrow Functions</li>
@@ -62,8 +62,16 @@
       <li>Nested Destructuring</li>
     </ul>
   </li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Terniary Operator</li>
+  <li>For-In Loop</li>
+  <li>For-Of Loop</li>
+  <li>forEach Method</li>
+  <li>map Helper</li>
+  <li>filter Helper</li>
+  <li>find Helper</li>
+  <li>every & some Helpers</li>
+  <li>reduce Helper</li>
+  <li>Map Data Structure</li>
+  <li>Sets Data Structure</li>
   <li></li>
 </ul>
