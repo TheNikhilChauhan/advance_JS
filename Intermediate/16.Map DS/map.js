@@ -38,3 +38,55 @@ for (let key of map.keys()) {
 for (let value of map.values()) {
   console.log(value);
 }
+//********************** */
+
+// 1. Create a new Map
+// 2. Set these properties  ("a", "b", "c")
+// 3. Set these values (1, 2, 3)
+// 4. Get "a" from that map
+// 5. Check the size of that map
+// 6. Delete the property "b" & then check the size.
+
+const map1 = new Map();
+
+map1.set("a", 1);
+map1.set("b", 2);
+map1.set("c", 3);
+
+console.log(map1.get("a"));
+console.log(map1.size);
+
+console.log(map1.delete("b"));
+console.log(map1.size);
+
+// ------------------------------------------
+// Write a function called countCharacters that takes a string as input and returns a Map that contains each character in the string as a key and the count of occurrences of that character as the value.
+
+// Something like this 👇
+// const text = "hello";
+
+// const characterCountMap = countCharacters(text);
+// console.log(characterCountMap);
+
+// output
+// Map(4) {
+//     'h' => 1,
+//     'e' => 1,
+//     'l' => 2,
+//     'o' => 1
+//   }
+
+function countCharacters(str) {
+  const characterMap = new Map();
+
+  for (const char of str) {
+    const count = characterMap.get(char) || 0;
+    characterMap.set(char, count + 1);
+  }
+
+  return characterMap;
+}
+
+const text = "hello";
+const charMap = countCharacters(text);
+console.log(charMap);
