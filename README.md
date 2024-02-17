@@ -73,5 +73,11 @@
   <li>reduce Helper</li>
   <li>Map Data Structure</li>
   <li>Sets Data Structure</li>
+</ul>
+<h3>DOM</h3>
+<ul>
+  <li>What is DOM?</li>
+  <li></li>
+  <li></li>
   <li></li>
 </ul>
