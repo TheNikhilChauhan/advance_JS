@@ -91,6 +91,8 @@
       <li>Built-in Constructor</li>
       <li>Object.create</li>
       <li>Prototype Model</li>
+      <li>Prototypal Inheritance</li>
+      <li>Classes</li>
       <li></li>
       <li></li>
     </ul>
