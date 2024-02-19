@@ -96,9 +96,15 @@
       <li>Class Modifiers</li>
       <li>Encapsulation</li>
       <li>Abstraction</li>
+      <li>Inheritance</li>
+      <li>Polymorphism</li>
     </ul>
   </li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Async Programming
+  <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
+  </li>
 </ul>
