@@ -105,7 +105,16 @@
     <li>Sync VS Async</li>
     <li>Callback Hell</li>
     <li>Promises</li>
-    <li></li>
+    <li>Async Await</li>
+    <li>Fetch API
+      <ul>
+        <li>Reading Text Files</li>
+        <li>Reading JSON</li>
+        <li>External APIs</li>
+        <li>Refactoring to Async</li>
+      </ul>
+    </li>
+    <li>TryCatch</li>
   </ul>
   </li>
 </ul>
