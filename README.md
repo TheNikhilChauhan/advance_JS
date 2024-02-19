@@ -93,8 +93,9 @@
       <li>Prototype Model</li>
       <li>Prototypal Inheritance</li>
       <li>Classes</li>
-      <li></li>
-      <li></li>
+      <li>Class Modifiers</li>
+      <li>Encapsulation</li>
+      <li>Abstraction</li>
     </ul>
   </li>
   <li></li>
