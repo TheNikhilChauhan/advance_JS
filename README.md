@@ -102,8 +102,9 @@
   </li>
   <li>Async Programming
   <ul>
-    <li></li>
-    <li></li>
+    <li>Sync VS Async</li>
+    <li>Callback Hell</li>
+    <li>Promises</li>
     <li></li>
   </ul>
   </li>
